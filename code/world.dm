@@ -10,7 +10,7 @@
 	view = "15x15"
 	cache_lifespan = 7
 	icon_size = WORLD_ICON_SIZE
-	fps = 20
+	fps = 60
 #ifdef GC_FAILURE_HARD_LOOKUP
 	loop_checks = FALSE
 #endif
